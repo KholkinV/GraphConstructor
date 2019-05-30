@@ -1,0 +1,9 @@
+C:\Users\kholk\OneDrive\Projects\GraphConstructor\GraphConstructor\obj\Debug\GraphConstructor.Properties.Resources.resources
+C:\Users\kholk\OneDrive\Projects\GraphConstructor\GraphConstructor\obj\Debug\GraphConstructor.csproj.GenerateResource.cache
+C:\Users\kholk\OneDrive\Projects\GraphConstructor\GraphConstructor\obj\Debug\GraphConstructor.csproj.CoreCompileInputs.cache
+C:\Users\kholk\OneDrive\Projects\GraphConstructor\GraphConstructor\bin\Debug\GraphConstructor.exe.config
+C:\Users\kholk\OneDrive\Projects\GraphConstructor\GraphConstructor\bin\Debug\GraphConstructor.exe
+C:\Users\kholk\OneDrive\Projects\GraphConstructor\GraphConstructor\bin\Debug\GraphConstructor.pdb
+C:\Users\kholk\OneDrive\Projects\GraphConstructor\GraphConstructor\obj\Debug\GraphConstructor.exe
+C:\Users\kholk\OneDrive\Projects\GraphConstructor\GraphConstructor\obj\Debug\GraphConstructor.pdb
+C:\Users\kholk\OneDrive\Projects\GraphConstructor\GraphConstructor\obj\Debug\GraphConstructor.csprojAssemblyReference.cache

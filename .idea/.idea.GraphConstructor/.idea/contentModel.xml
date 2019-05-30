@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kholk\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kholk\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_GraphConstructor.968397544.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kholk\OneDrive\Projects\GraphConstructor" t="IncludeFlat">
+      <e p="GraphConstructor" t="IncludeRecursive">
+        <e p="Algorithms.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Box.cs" t="Include" />
+        <e p="GraphConstructor.csproj" t="IncludeRecursive" />
+        <e p="GraphLogic" t="Include">
+          <e p="Edge.cs" t="Include" />
+          <e p="Graph.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+        </e>
+        <e p="MainForm.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="GraphConstructor.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
